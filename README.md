@@ -46,4 +46,4 @@ Classe responsável pelos cálculos e regras de negócio.
 - `total()`: Calcula o valor total da conta.
 
 ## Tecnologias Utilizadas
-- Java
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
