@@ -23,11 +23,12 @@ Este programa simula o cálculo da conta de um cliente em um bar. Ele considera 
 
 ### Saída:
 ```text
-Relatório da conta:
-- Ingresso: R$ 10.00
-- Consumo: R$ 43.00
-- Couvert artístico: Isento
-- Total: R$ 53.00
+RELATÓRIO:
+
+Consumo = R$ 43.00
+Couvert = Isento
+Ingresso = R$ 10.00
+Valor a pagar = R$ 53.00
 ```
 
 ## Estrutura do Projeto
