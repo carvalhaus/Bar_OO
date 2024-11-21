@@ -36,14 +36,14 @@ Relatório da conta:
 Classe responsável pelos cálculos e regras de negócio.
 
 #### Atributos:
-- gender: sexo do cliente (F ou M).
-- beer, barbecue, softDrink: quantidades consumidas de cada item.
+- `gender`: sexo do cliente (F ou M).
+- `beer`, `barbecue`, `softDrink`: quantidades consumidas de cada item.
 
 #### Métodos:
-- cover(): Calcula a taxa de couvert artístico.
-- feeding(): Calcula o total do consumo de comidas e bebidas.
-- ticket(): Retorna o valor do ingresso com base no sexo.
-- total(): Calcula o valor total da conta.
+- `cover()`: Calcula a taxa de couvert artístico.
+- `feeding()`: Calcula o total do consumo de comidas e bebidas.
+- `ticket()`: Retorna o valor do ingresso com base no sexo.
+- `total()`: Calcula o valor total da conta.
 
 ## Tecnologias Utilizadas
 - Java
