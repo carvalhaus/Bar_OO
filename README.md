@@ -26,7 +26,7 @@ Este programa simula o cálculo da conta de um cliente em um bar. Ele considera 
 RELATÓRIO:
 
 Consumo = R$ 43.00
-Couvert = Isento
+Isento de Couvert
 Ingresso = R$ 10.00
 Valor a pagar = R$ 53.00
 ```
